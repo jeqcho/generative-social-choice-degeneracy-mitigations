@@ -1,0 +1,4034 @@
+{
+  "abortion/uniform/persona_no_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 37.82875667429443,
+      "median": 34.0,
+      "count": 2622
+    },
+    "progressive_liberal,other": {
+      "mean": 60.19157608695652,
+      "median": 60.0,
+      "count": 736
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 71.5072463768116,
+      "median": 73.0,
+      "count": 1242
+    },
+    "other,progressive_liberal": {
+      "mean": 50.04643962848297,
+      "median": 48.0,
+      "count": 969
+    },
+    "other,other": {
+      "mean": 53.955882352941174,
+      "median": 51.5,
+      "count": 272
+    },
+    "other,conservative_traditional": {
+      "mean": 49.40958605664488,
+      "median": 64.0,
+      "count": 459
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 63.11664295874822,
+      "median": 63.0,
+      "count": 2109
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 25.153153153153152,
+      "median": 16.0,
+      "count": 999
+    },
+    "conservative_traditional,other": {
+      "mean": 48.326013513513516,
+      "median": 39.0,
+      "count": 592
+    }
+  },
+  "abortion/uniform/persona_no_context/rep1": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 32.65222437137331,
+      "median": 29.0,
+      "count": 2585
+    },
+    "progressive_liberal,other": {
+      "mean": 49.811764705882354,
+      "median": 48.0,
+      "count": 935
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 74.12626262626263,
+      "median": 76.0,
+      "count": 1980
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 26.30462962962963,
+      "median": 20.0,
+      "count": 1080
+    },
+    "conservative_traditional,other": {
+      "mean": 53.22549019607843,
+      "median": 47.0,
+      "count": 510
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 68.0468085106383,
+      "median": 69.0,
+      "count": 1410
+    },
+    "other,conservative_traditional": {
+      "mean": 54.03333333333333,
+      "median": 65.0,
+      "count": 540
+    },
+    "other,other": {
+      "mean": 49.26274509803922,
+      "median": 46.0,
+      "count": 255
+    },
+    "other,progressive_liberal": {
+      "mean": 48.241134751773046,
+      "median": 47.0,
+      "count": 705
+    }
+  },
+  "abortion/uniform/persona_no_context/rep2": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 37.705387205387204,
+      "median": 34.0,
+      "count": 2970
+    },
+    "progressive_liberal,other": {
+      "mean": 60.220458553791886,
+      "median": 64.0,
+      "count": 1134
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 71.31558641975309,
+      "median": 73.0,
+      "count": 1296
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 23.667929292929294,
+      "median": 17.0,
+      "count": 792
+    },
+    "conservative_traditional,other": {
+      "mean": 49.04329004329004,
+      "median": 43.0,
+      "count": 693
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 62.76473829201102,
+      "median": 63.0,
+      "count": 1815
+    },
+    "other,conservative_traditional": {
+      "mean": 50.77564102564103,
+      "median": 65.0,
+      "count": 312
+    },
+    "other,other": {
+      "mean": 53.62271062271062,
+      "median": 53.0,
+      "count": 273
+    },
+    "other,progressive_liberal": {
+      "mean": 49.18741258741259,
+      "median": 47.0,
+      "count": 715
+    }
+  },
+  "abortion/uniform/persona_no_context/rep3": {
+    "progressive_liberal,other": {
+      "mean": 54.70472895040369,
+      "median": 53.0,
+      "count": 867
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 33.72941176470588,
+      "median": 31.0,
+      "count": 2550
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 73.74390968508615,
+      "median": 75.0,
+      "count": 1683
+    },
+    "other,conservative_traditional": {
+      "mean": 48.23232323232323,
+      "median": 57.0,
+      "count": 594
+    },
+    "other,other": {
+      "mean": 52.99346405228758,
+      "median": 51.0,
+      "count": 306
+    },
+    "other,progressive_liberal": {
+      "mean": 51.14888888888889,
+      "median": 50.0,
+      "count": 900
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 24.542521994134898,
+      "median": 19.0,
+      "count": 1023
+    },
+    "conservative_traditional,other": {
+      "mean": 54.081593927893735,
+      "median": 51.0,
+      "count": 527
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 66.4141935483871,
+      "median": 67.5,
+      "count": 1550
+    }
+  },
+  "abortion/uniform/persona_no_context/rep4": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 25.544588744588744,
+      "median": 20.0,
+      "count": 1155
+    },
+    "conservative_traditional,other": {
+      "mean": 56.04107142857143,
+      "median": 51.5,
+      "count": 560
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 64.90924369747898,
+      "median": 67.0,
+      "count": 1785
+    },
+    "other,conservative_traditional": {
+      "mean": 50.27272727272727,
+      "median": 63.0,
+      "count": 495
+    },
+    "other,other": {
+      "mean": 55.075,
+      "median": 52.5,
+      "count": 240
+    },
+    "other,progressive_liberal": {
+      "mean": 49.21176470588235,
+      "median": 48.0,
+      "count": 765
+    },
+    "progressive_liberal,other": {
+      "mean": 52.615,
+      "median": 52.0,
+      "count": 800
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 33.33372549019608,
+      "median": 30.0,
+      "count": 2550
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 76.00424242424242,
+      "median": 77.0,
+      "count": 1650
+    }
+  },
+  "abortion/uniform/persona_no_context/rep5": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 37.321745562130175,
+      "median": 34.0,
+      "count": 2704
+    },
+    "progressive_liberal,other": {
+      "mean": 58.01254180602007,
+      "median": 58.0,
+      "count": 1196
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 70.99923076923076,
+      "median": 73.0,
+      "count": 1300
+    },
+    "other,conservative_traditional": {
+      "mean": 53.39368421052632,
+      "median": 67.0,
+      "count": 475
+    },
+    "other,other": {
+      "mean": 54.588100686498855,
+      "median": 51.0,
+      "count": 437
+    },
+    "other,progressive_liberal": {
+      "mean": 47.300607287449395,
+      "median": 45.0,
+      "count": 988
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 18.502068965517243,
+      "median": 15.0,
+      "count": 725
+    },
+    "conservative_traditional,other": {
+      "mean": 48.869565217391305,
+      "median": 43.0,
+      "count": 667
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 66.60477453580901,
+      "median": 67.0,
+      "count": 1508
+    }
+  },
+  "abortion/uniform/persona_no_context/rep6": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 32.45706558485463,
+      "median": 31.0,
+      "count": 2958
+    },
+    "progressive_liberal,other": {
+      "mean": 58.629817444219064,
+      "median": 57.0,
+      "count": 986
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 74.93696120689656,
+      "median": 76.0,
+      "count": 1856
+    },
+    "other,conservative_traditional": {
+      "mean": 57.63333333333333,
+      "median": 70.0,
+      "count": 480
+    },
+    "other,other": {
+      "mean": 51.11372549019608,
+      "median": 52.0,
+      "count": 255
+    },
+    "other,progressive_liberal": {
+      "mean": 45.819607843137256,
+      "median": 44.0,
+      "count": 765
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 24.564814814814813,
+      "median": 20.0,
+      "count": 864
+    },
+    "conservative_traditional,other": {
+      "mean": 47.52069716775599,
+      "median": 43.0,
+      "count": 459
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 67.76615831517792,
+      "median": 68.0,
+      "count": 1377
+    }
+  },
+  "abortion/uniform/persona_no_context/rep7": {
+    "other,progressive_liberal": {
+      "mean": 48.84974533106961,
+      "median": 45.0,
+      "count": 1178
+    },
+    "other,other": {
+      "mean": 52.17434210526316,
+      "median": 51.0,
+      "count": 304
+    },
+    "other,conservative_traditional": {
+      "mean": 53.933014354066984,
+      "median": 67.0,
+      "count": 418
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 16.267482517482517,
+      "median": 13.0,
+      "count": 572
+    },
+    "conservative_traditional,other": {
+      "mean": 52.62259615384615,
+      "median": 50.0,
+      "count": 416
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 62.09925558312655,
+      "median": 63.0,
+      "count": 1612
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 41.662463343108506,
+      "median": 36.0,
+      "count": 3410
+    },
+    "progressive_liberal,other": {
+      "mean": 55.013636363636365,
+      "median": 53.0,
+      "count": 880
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 72.12314049586777,
+      "median": 72.0,
+      "count": 1210
+    }
+  },
+  "abortion/uniform/persona_no_context/rep8": {
+    "conservative_traditional,progressive_liberal": {
+      "mean": 64.29266666666666,
+      "median": 64.0,
+      "count": 1500
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 24.760919540229885,
+      "median": 17.0,
+      "count": 870
+    },
+    "conservative_traditional,other": {
+      "mean": 53.2047619047619,
+      "median": 49.0,
+      "count": 630
+    },
+    "progressive_liberal,other": {
+      "mean": 57.16103896103896,
+      "median": 55.0,
+      "count": 1155
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 35.44981818181818,
+      "median": 32.0,
+      "count": 2750
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 71.62507836990595,
+      "median": 74.0,
+      "count": 1595
+    },
+    "other,conservative_traditional": {
+      "mean": 54.4183908045977,
+      "median": 67.0,
+      "count": 435
+    },
+    "other,other": {
+      "mean": 55.25079365079365,
+      "median": 53.0,
+      "count": 315
+    },
+    "other,progressive_liberal": {
+      "mean": 46.232,
+      "median": 44.0,
+      "count": 750
+    }
+  },
+  "abortion/uniform/persona_no_context/rep9": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 33.15686981608366,
+      "median": 31.0,
+      "count": 2773
+    },
+    "progressive_liberal,other": {
+      "mean": 54.06702619414484,
+      "median": 52.0,
+      "count": 1298
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 74.26298523783488,
+      "median": 76.0,
+      "count": 1829
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 21.467741935483872,
+      "median": 19.0,
+      "count": 806
+    },
+    "conservative_traditional,other": {
+      "mean": 53.79545454545455,
+      "median": 50.0,
+      "count": 572
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 68.1063829787234,
+      "median": 69.0,
+      "count": 1222
+    },
+    "other,progressive_liberal": {
+      "mean": 50.64255319148936,
+      "median": 49.0,
+      "count": 705
+    },
+    "other,other": {
+      "mean": 53.95151515151515,
+      "median": 52.0,
+      "count": 330
+    },
+    "other,conservative_traditional": {
+      "mean": 47.83440860215054,
+      "median": 61.0,
+      "count": 465
+    }
+  },
+  "abortion/uniform/persona_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.93478260869565,
+      "median": 53.0,
+      "count": 2622
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.63204508856683,
+      "median": 50.0,
+      "count": 1242
+    },
+    "progressive_liberal,other": {
+      "mean": 46.85326086956522,
+      "median": 41.0,
+      "count": 736
+    },
+    "other,progressive_liberal": {
+      "mean": 51.4922600619195,
+      "median": 52.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 51.113289760348586,
+      "median": 52.0,
+      "count": 459
+    },
+    "other,other": {
+      "mean": 45.93014705882353,
+      "median": 41.0,
+      "count": 272
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.2773826458037,
+      "median": 50.0,
+      "count": 2109
+    },
+    "conservative_traditional,other": {
+      "mean": 52.3902027027027,
+      "median": 54.0,
+      "count": 592
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.849849849849846,
+      "median": 51.0,
+      "count": 999
+    }
+  },
+  "abortion/uniform/persona_context/rep1": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.47234042553192,
+      "median": 54.0,
+      "count": 2585
+    },
+    "progressive_liberal,other": {
+      "mean": 42.46631016042781,
+      "median": 38.0,
+      "count": 935
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.718686868686866,
+      "median": 52.0,
+      "count": 1980
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 48.06950354609929,
+      "median": 46.0,
+      "count": 1410
+    },
+    "conservative_traditional,other": {
+      "mean": 60.69803921568627,
+      "median": 60.0,
+      "count": 510
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 48.85740740740741,
+      "median": 49.0,
+      "count": 1080
+    },
+    "other,conservative_traditional": {
+      "mean": 51.129629629629626,
+      "median": 51.0,
+      "count": 540
+    },
+    "other,progressive_liberal": {
+      "mean": 50.13049645390071,
+      "median": 51.0,
+      "count": 705
+    },
+    "other,other": {
+      "mean": 50.188235294117646,
+      "median": 45.0,
+      "count": 255
+    }
+  },
+  "abortion/uniform/persona_context/rep2": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 49.878787878787875,
+      "median": 49.0,
+      "count": 2970
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 47.59722222222222,
+      "median": 46.0,
+      "count": 1296
+    },
+    "progressive_liberal,other": {
+      "mean": 55.44444444444444,
+      "median": 62.0,
+      "count": 1134
+    },
+    "conservative_traditional,other": {
+      "mean": 45.64935064935065,
+      "median": 43.0,
+      "count": 693
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.98347107438016,
+      "median": 52.0,
+      "count": 1815
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 51.34469696969697,
+      "median": 50.0,
+      "count": 792
+    },
+    "other,conservative_traditional": {
+      "mean": 48.67948717948718,
+      "median": 48.0,
+      "count": 312
+    },
+    "other,progressive_liberal": {
+      "mean": 50.226573426573424,
+      "median": 49.0,
+      "count": 715
+    },
+    "other,other": {
+      "mean": 53.2967032967033,
+      "median": 59.0,
+      "count": 273
+    }
+  },
+  "abortion/uniform/persona_context/rep3": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.278669043374926,
+      "median": 51.0,
+      "count": 1683
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.77607843137255,
+      "median": 54.0,
+      "count": 2550
+    },
+    "progressive_liberal,other": {
+      "mean": 45.23529411764706,
+      "median": 42.0,
+      "count": 867
+    },
+    "other,other": {
+      "mean": 52.071895424836605,
+      "median": 48.0,
+      "count": 306
+    },
+    "other,progressive_liberal": {
+      "mean": 49.97888888888889,
+      "median": 50.5,
+      "count": 900
+    },
+    "other,conservative_traditional": {
+      "mean": 50.47979797979798,
+      "median": 52.0,
+      "count": 594
+    },
+    "conservative_traditional,other": {
+      "mean": 56.903225806451616,
+      "median": 57.0,
+      "count": 527
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 48.55161290322581,
+      "median": 48.0,
+      "count": 1550
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.15347018572825,
+      "median": 50.0,
+      "count": 1023
+    }
+  },
+  "abortion/uniform/persona_context/rep4": {
+    "conservative_traditional,progressive_liberal": {
+      "mean": 48.89299719887955,
+      "median": 47.0,
+      "count": 1785
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.81818181818182,
+      "median": 52.0,
+      "count": 1155
+    },
+    "conservative_traditional,other": {
+      "mean": 54.96607142857143,
+      "median": 59.0,
+      "count": 560
+    },
+    "other,conservative_traditional": {
+      "mean": 50.21010101010101,
+      "median": 50.0,
+      "count": 495
+    },
+    "other,progressive_liberal": {
+      "mean": 50.60392156862745,
+      "median": 51.0,
+      "count": 765
+    },
+    "other,other": {
+      "mean": 50.766666666666666,
+      "median": 51.0,
+      "count": 240
+    },
+    "progressive_liberal,other": {
+      "mean": 42.75875,
+      "median": 40.0,
+      "count": 800
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.99137254901961,
+      "median": 54.0,
+      "count": 2550
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 50.403030303030306,
+      "median": 50.0,
+      "count": 1650
+    }
+  },
+  "abortion/uniform/persona_context/rep5": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.77923076923077,
+      "median": 53.0,
+      "count": 1300
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 49.36834319526627,
+      "median": 48.0,
+      "count": 2704
+    },
+    "progressive_liberal,other": {
+      "mean": 51.6680602006689,
+      "median": 53.0,
+      "count": 1196
+    },
+    "other,conservative_traditional": {
+      "mean": 51.334736842105265,
+      "median": 51.0,
+      "count": 475
+    },
+    "other,progressive_liberal": {
+      "mean": 50.114372469635626,
+      "median": 50.0,
+      "count": 988
+    },
+    "other,other": {
+      "mean": 50.464530892448515,
+      "median": 51.0,
+      "count": 437
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.65716180371353,
+      "median": 50.0,
+      "count": 1508
+    },
+    "conservative_traditional,other": {
+      "mean": 50.00899550224887,
+      "median": 50.0,
+      "count": 667
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.6248275862069,
+      "median": 53.0,
+      "count": 725
+    }
+  },
+  "abortion/uniform/persona_context/rep6": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.40786637931034,
+      "median": 49.0,
+      "count": 1856
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.937457741717374,
+      "median": 47.0,
+      "count": 2958
+    },
+    "progressive_liberal,other": {
+      "mean": 57.24340770791075,
+      "median": 64.0,
+      "count": 986
+    },
+    "other,conservative_traditional": {
+      "mean": 52.079166666666666,
+      "median": 53.0,
+      "count": 480
+    },
+    "other,progressive_liberal": {
+      "mean": 49.77124183006536,
+      "median": 47.0,
+      "count": 765
+    },
+    "other,other": {
+      "mean": 49.713725490196076,
+      "median": 59.0,
+      "count": 255
+    },
+    "conservative_traditional,other": {
+      "mean": 39.509803921568626,
+      "median": 31.0,
+      "count": 459
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.145243282498186,
+      "median": 52.0,
+      "count": 1377
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 53.71643518518518,
+      "median": 55.5,
+      "count": 864
+    }
+  },
+  "abortion/uniform/persona_context/rep7": {
+    "other,progressive_liberal": {
+      "mean": 50.40577249575552,
+      "median": 49.0,
+      "count": 1178
+    },
+    "other,other": {
+      "mean": 52.75328947368421,
+      "median": 55.0,
+      "count": 304
+    },
+    "other,conservative_traditional": {
+      "mean": 49.1267942583732,
+      "median": 49.5,
+      "count": 418
+    },
+    "conservative_traditional,other": {
+      "mean": 46.42067307692308,
+      "median": 45.0,
+      "count": 416
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.890198511166254,
+      "median": 53.0,
+      "count": 1612
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 46.73076923076923,
+      "median": 46.0,
+      "count": 572
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.7524926686217,
+      "median": 47.0,
+      "count": 3410
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 53.075206611570245,
+      "median": 55.0,
+      "count": 1210
+    },
+    "progressive_liberal,other": {
+      "mean": 53.73068181818182,
+      "median": 57.0,
+      "count": 880
+    }
+  },
+  "abortion/uniform/persona_context/rep8": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 55.00344827586207,
+      "median": 55.0,
+      "count": 870
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 47.742,
+      "median": 44.0,
+      "count": 1500
+    },
+    "conservative_traditional,other": {
+      "mean": 50.84761904761905,
+      "median": 55.0,
+      "count": 630
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 53.2,
+      "median": 55.0,
+      "count": 2750
+    },
+    "progressive_liberal,other": {
+      "mean": 48.93593073593074,
+      "median": 49.0,
+      "count": 1155
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 46.97742946708464,
+      "median": 46.0,
+      "count": 1595
+    },
+    "other,progressive_liberal": {
+      "mean": 52.036,
+      "median": 53.0,
+      "count": 750
+    },
+    "other,other": {
+      "mean": 49.08888888888889,
+      "median": 50.0,
+      "count": 315
+    },
+    "other,conservative_traditional": {
+      "mean": 48.87356321839081,
+      "median": 47.0,
+      "count": 435
+    }
+  },
+  "abortion/uniform/persona_context/rep9": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 47.728266812465826,
+      "median": 46.0,
+      "count": 1829
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.400649116480345,
+      "median": 49.0,
+      "count": 2773
+    },
+    "progressive_liberal,other": {
+      "mean": 58.89060092449923,
+      "median": 65.0,
+      "count": 1298
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.01227495908347,
+      "median": 50.0,
+      "count": 1222
+    },
+    "conservative_traditional,other": {
+      "mean": 46.56993006993007,
+      "median": 37.0,
+      "count": 572
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 54.02853598014888,
+      "median": 57.0,
+      "count": 806
+    },
+    "other,progressive_liberal": {
+      "mean": 48.81985815602837,
+      "median": 48.0,
+      "count": 705
+    },
+    "other,other": {
+      "mean": 55.554545454545455,
+      "median": 57.0,
+      "count": 330
+    },
+    "other,conservative_traditional": {
+      "mean": 49.46021505376344,
+      "median": 50.0,
+      "count": 465
+    }
+  },
+  "abortion/uniform/no_persona_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 53.08276125095347,
+      "median": 54.0,
+      "count": 2622
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 47.71256038647343,
+      "median": 46.0,
+      "count": 1242
+    },
+    "progressive_liberal,other": {
+      "mean": 46.00271739130435,
+      "median": 45.0,
+      "count": 736
+    },
+    "other,progressive_liberal": {
+      "mean": 53.56759545923632,
+      "median": 56.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 48.050108932461875,
+      "median": 46.0,
+      "count": 459
+    },
+    "other,other": {
+      "mean": 43.705882352941174,
+      "median": 39.0,
+      "count": 272
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.908908908908906,
+      "median": 51.0,
+      "count": 999
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.28354670459934,
+      "median": 53.0,
+      "count": 2109
+    },
+    "conservative_traditional,other": {
+      "mean": 45.14358108108108,
+      "median": 43.0,
+      "count": 592
+    }
+  },
+  "abortion/uniform/no_persona_context/rep1": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 49.53191489361702,
+      "median": 47.0,
+      "count": 2585
+    },
+    "progressive_liberal,other": {
+      "mean": 48.3572192513369,
+      "median": 49.0,
+      "count": 935
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 52.775757575757574,
+      "median": 55.0,
+      "count": 1980
+    },
+    "conservative_traditional,other": {
+      "mean": 46.166666666666664,
+      "median": 44.0,
+      "count": 510
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 47.962037037037035,
+      "median": 47.0,
+      "count": 1080
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 54.0113475177305,
+      "median": 56.0,
+      "count": 1410
+    },
+    "other,conservative_traditional": {
+      "mean": 52.79074074074074,
+      "median": 53.5,
+      "count": 540
+    },
+    "other,progressive_liberal": {
+      "mean": 50.39007092198582,
+      "median": 49.0,
+      "count": 705
+    },
+    "other,other": {
+      "mean": 45.95294117647059,
+      "median": 42.0,
+      "count": 255
+    }
+  },
+  "abortion/uniform/no_persona_context/rep2": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 49.31919191919192,
+      "median": 48.0,
+      "count": 2970
+    },
+    "progressive_liberal,other": {
+      "mean": 51.23015873015873,
+      "median": 52.0,
+      "count": 1134
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 52.567129629629626,
+      "median": 54.0,
+      "count": 1296
+    },
+    "conservative_traditional,other": {
+      "mean": 48.79220779220779,
+      "median": 48.0,
+      "count": 693
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 49.65289256198347,
+      "median": 50.0,
+      "count": 1815
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 53.93560606060606,
+      "median": 55.0,
+      "count": 792
+    },
+    "other,conservative_traditional": {
+      "mean": 54.79807692307692,
+      "median": 57.0,
+      "count": 312
+    },
+    "other,progressive_liberal": {
+      "mean": 48.96923076923077,
+      "median": 48.0,
+      "count": 715
+    },
+    "other,other": {
+      "mean": 49.5970695970696,
+      "median": 49.0,
+      "count": 273
+    }
+  },
+  "abortion/uniform/no_persona_context/rep3": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.13372549019608,
+      "median": 53.0,
+      "count": 2550
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.73083778966132,
+      "median": 47.0,
+      "count": 1683
+    },
+    "progressive_liberal,other": {
+      "mean": 52.07035755478662,
+      "median": 51.0,
+      "count": 867
+    },
+    "other,other": {
+      "mean": 52.369281045751634,
+      "median": 52.5,
+      "count": 306
+    },
+    "other,progressive_liberal": {
+      "mean": 51.28777777777778,
+      "median": 54.0,
+      "count": 900
+    },
+    "other,conservative_traditional": {
+      "mean": 48.343434343434346,
+      "median": 47.0,
+      "count": 594
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 48.321290322580644,
+      "median": 48.0,
+      "count": 1550
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.55913978494624,
+      "median": 49.0,
+      "count": 1023
+    },
+    "conservative_traditional,other": {
+      "mean": 56.79316888045541,
+      "median": 61.0,
+      "count": 527
+    }
+  },
+  "abortion/uniform/no_persona_context/rep4": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.76017316017316,
+      "median": 48.0,
+      "count": 1155
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 49.89355742296919,
+      "median": 51.0,
+      "count": 1785
+    },
+    "conservative_traditional,other": {
+      "mean": 53.95892857142857,
+      "median": 53.0,
+      "count": 560
+    },
+    "other,conservative_traditional": {
+      "mean": 52.03232323232323,
+      "median": 52.0,
+      "count": 495
+    },
+    "other,progressive_liberal": {
+      "mean": 49.071895424836605,
+      "median": 48.0,
+      "count": 765
+    },
+    "other,other": {
+      "mean": 51.891666666666666,
+      "median": 52.5,
+      "count": 240
+    },
+    "progressive_liberal,other": {
+      "mean": 48.28125,
+      "median": 46.0,
+      "count": 800
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.08196078431372,
+      "median": 50.0,
+      "count": 2550
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 52.22181818181818,
+      "median": 54.0,
+      "count": 1650
+    }
+  },
+  "abortion/uniform/no_persona_context/rep5": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 53.00692307692308,
+      "median": 55.0,
+      "count": 1300
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.74001479289941,
+      "median": 47.0,
+      "count": 2704
+    },
+    "progressive_liberal,other": {
+      "mean": 51.75418060200669,
+      "median": 58.0,
+      "count": 1196
+    },
+    "other,progressive_liberal": {
+      "mean": 47.93623481781376,
+      "median": 46.0,
+      "count": 988
+    },
+    "other,conservative_traditional": {
+      "mean": 53.770526315789475,
+      "median": 56.0,
+      "count": 475
+    },
+    "other,other": {
+      "mean": 52.74141876430206,
+      "median": 61.0,
+      "count": 437
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 48.425066312997345,
+      "median": 47.0,
+      "count": 1508
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 52.248275862068965,
+      "median": 54.0,
+      "count": 725
+    },
+    "conservative_traditional,other": {
+      "mean": 53.29085457271364,
+      "median": 60.0,
+      "count": 667
+    }
+  },
+  "abortion/uniform/no_persona_context/rep6": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.039891818796484,
+      "median": 53.0,
+      "count": 2958
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.484913793103445,
+      "median": 46.0,
+      "count": 1856
+    },
+    "progressive_liberal,other": {
+      "mean": 49.67342799188641,
+      "median": 52.0,
+      "count": 986
+    },
+    "other,conservative_traditional": {
+      "mean": 50.41458333333333,
+      "median": 50.0,
+      "count": 480
+    },
+    "other,progressive_liberal": {
+      "mean": 50.40522875816993,
+      "median": 49.0,
+      "count": 765
+    },
+    "other,other": {
+      "mean": 50.94509803921569,
+      "median": 54.0,
+      "count": 255
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 46.90922294843863,
+      "median": 45.0,
+      "count": 1377
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 54.65046296296296,
+      "median": 55.0,
+      "count": 864
+    },
+    "conservative_traditional,other": {
+      "mean": 53.45969498910675,
+      "median": 58.0,
+      "count": 459
+    }
+  },
+  "abortion/uniform/no_persona_context/rep7": {
+    "other,other": {
+      "mean": 50.05921052631579,
+      "median": 51.0,
+      "count": 304
+    },
+    "other,progressive_liberal": {
+      "mean": 50.55178268251273,
+      "median": 49.0,
+      "count": 1178
+    },
+    "other,conservative_traditional": {
+      "mean": 50.67464114832536,
+      "median": 53.5,
+      "count": 418
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.61538461538461,
+      "median": 50.0,
+      "count": 1612
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.21853146853147,
+      "median": 51.0,
+      "count": 572
+    },
+    "conservative_traditional,other": {
+      "mean": 50.43990384615385,
+      "median": 51.0,
+      "count": 416
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.11114369501466,
+      "median": 50.0,
+      "count": 3410
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.69669421487603,
+      "median": 52.0,
+      "count": 1210
+    },
+    "progressive_liberal,other": {
+      "mean": 50.361363636363635,
+      "median": 52.0,
+      "count": 880
+    }
+  },
+  "abortion/uniform/no_persona_context/rep8": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 54.12528735632184,
+      "median": 54.0,
+      "count": 870
+    },
+    "conservative_traditional,other": {
+      "mean": 52.72539682539683,
+      "median": 53.0,
+      "count": 630
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 47.462666666666664,
+      "median": 46.0,
+      "count": 1500
+    },
+    "progressive_liberal,other": {
+      "mean": 48.30649350649351,
+      "median": 48.0,
+      "count": 1155
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.64,
+      "median": 52.0,
+      "count": 2750
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.847021943573665,
+      "median": 51.0,
+      "count": 1595
+    },
+    "other,progressive_liberal": {
+      "mean": 50.572,
+      "median": 52.0,
+      "count": 750
+    },
+    "other,conservative_traditional": {
+      "mean": 51.763218390804596,
+      "median": 51.0,
+      "count": 435
+    },
+    "other,other": {
+      "mean": 48.58412698412698,
+      "median": 48.0,
+      "count": 315
+    }
+  },
+  "abortion/uniform/no_persona_context/rep9": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.96172772006561,
+      "median": 54.0,
+      "count": 1829
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 49.21889650198341,
+      "median": 48.0,
+      "count": 2773
+    },
+    "progressive_liberal,other": {
+      "mean": 51.17719568567026,
+      "median": 51.0,
+      "count": 1298
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.80893300248139,
+      "median": 54.0,
+      "count": 806
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 48.820785597381345,
+      "median": 47.0,
+      "count": 1222
+    },
+    "conservative_traditional,other": {
+      "mean": 53.6520979020979,
+      "median": 55.0,
+      "count": 572
+    },
+    "other,other": {
+      "mean": 51.25454545454546,
+      "median": 53.0,
+      "count": 330
+    },
+    "other,progressive_liberal": {
+      "mean": 48.60992907801418,
+      "median": 47.0,
+      "count": 705
+    },
+    "other,conservative_traditional": {
+      "mean": 52.83010752688172,
+      "median": 56.0,
+      "count": 465
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.202135774218156,
+      "median": 49.0,
+      "count": 2622
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.42351046698873,
+      "median": 50.0,
+      "count": 1242
+    },
+    "progressive_liberal,other": {
+      "mean": 53.37771739130435,
+      "median": 61.0,
+      "count": 736
+    },
+    "other,progressive_liberal": {
+      "mean": 51.29824561403509,
+      "median": 51.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 49.16339869281046,
+      "median": 50.0,
+      "count": 459
+    },
+    "other,other": {
+      "mean": 49.911764705882355,
+      "median": 50.0,
+      "count": 272
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 53.151256519677574,
+      "median": 53.0,
+      "count": 2109
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 51.03503503503504,
+      "median": 54.0,
+      "count": 999
+    },
+    "conservative_traditional,other": {
+      "mean": 40.152027027027025,
+      "median": 34.0,
+      "count": 592
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep1": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.960541586073504,
+      "median": 50.0,
+      "count": 2585
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.72979797979798,
+      "median": 47.0,
+      "count": 1980
+    },
+    "progressive_liberal,other": {
+      "mean": 56.38716577540107,
+      "median": 63.0,
+      "count": 935
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.13687943262411,
+      "median": 51.5,
+      "count": 1410
+    },
+    "conservative_traditional,other": {
+      "mean": 42.56666666666667,
+      "median": 34.0,
+      "count": 510
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 53.41481481481482,
+      "median": 55.0,
+      "count": 1080
+    },
+    "other,conservative_traditional": {
+      "mean": 51.483333333333334,
+      "median": 52.0,
+      "count": 540
+    },
+    "other,progressive_liberal": {
+      "mean": 50.01843971631206,
+      "median": 50.0,
+      "count": 705
+    },
+    "other,other": {
+      "mean": 49.74901960784314,
+      "median": 49.0,
+      "count": 255
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep2": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.17811447811448,
+      "median": 52.0,
+      "count": 2970
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 46.08256172839506,
+      "median": 42.0,
+      "count": 1296
+    },
+    "progressive_liberal,other": {
+      "mean": 53.77248677248677,
+      "median": 54.0,
+      "count": 1134
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.667217630854,
+      "median": 51.0,
+      "count": 1815
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.83838383838384,
+      "median": 49.0,
+      "count": 792
+    },
+    "conservative_traditional,other": {
+      "mean": 50.81818181818182,
+      "median": 50.0,
+      "count": 693
+    },
+    "other,conservative_traditional": {
+      "mean": 47.93269230769231,
+      "median": 46.5,
+      "count": 312
+    },
+    "other,progressive_liberal": {
+      "mean": 51.76223776223776,
+      "median": 54.0,
+      "count": 715
+    },
+    "other,other": {
+      "mean": 50.12820512820513,
+      "median": 47.0,
+      "count": 273
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep3": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.05960784313726,
+      "median": 54.0,
+      "count": 2550
+    },
+    "progressive_liberal,other": {
+      "mean": 47.67128027681661,
+      "median": 46.0,
+      "count": 867
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.5941770647653,
+      "median": 49.0,
+      "count": 1683
+    },
+    "other,progressive_liberal": {
+      "mean": 51.45444444444445,
+      "median": 53.0,
+      "count": 900
+    },
+    "other,conservative_traditional": {
+      "mean": 48.34848484848485,
+      "median": 47.0,
+      "count": 594
+    },
+    "other,other": {
+      "mean": 51.869281045751634,
+      "median": 52.0,
+      "count": 306
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.83577712609971,
+      "median": 49.0,
+      "count": 1023
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 49.30064516129032,
+      "median": 49.0,
+      "count": 1550
+    },
+    "conservative_traditional,other": {
+      "mean": 53.37571157495256,
+      "median": 57.0,
+      "count": 527
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep4": {
+    "conservative_traditional,other": {
+      "mean": 48.56071428571428,
+      "median": 48.0,
+      "count": 560
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 49.122128851540616,
+      "median": 49.0,
+      "count": 1785
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 53.56969696969697,
+      "median": 54.0,
+      "count": 1155
+    },
+    "other,progressive_liberal": {
+      "mean": 48.606535947712416,
+      "median": 47.0,
+      "count": 765
+    },
+    "other,conservative_traditional": {
+      "mean": 51.723232323232324,
+      "median": 53.0,
+      "count": 495
+    },
+    "other,other": {
+      "mean": 54.0125,
+      "median": 55.0,
+      "count": 240
+    },
+    "progressive_liberal,other": {
+      "mean": 58.2375,
+      "median": 60.0,
+      "count": 800
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.84705882352941,
+      "median": 47.0,
+      "count": 2550
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.303030303030305,
+      "median": 48.0,
+      "count": 1650
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep5": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.609097633136095,
+      "median": 51.0,
+      "count": 2704
+    },
+    "progressive_liberal,other": {
+      "mean": 52.90384615384615,
+      "median": 58.0,
+      "count": 1196
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 45.98153846153846,
+      "median": 43.0,
+      "count": 1300
+    },
+    "other,conservative_traditional": {
+      "mean": 48.65052631578947,
+      "median": 46.0,
+      "count": 475
+    },
+    "other,progressive_liberal": {
+      "mean": 50.965587044534416,
+      "median": 50.0,
+      "count": 988
+    },
+    "other,other": {
+      "mean": 51.45766590389016,
+      "median": 57.0,
+      "count": 437
+    },
+    "conservative_traditional,other": {
+      "mean": 48.11994002998501,
+      "median": 47.0,
+      "count": 667
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.722811671087534,
+      "median": 50.0,
+      "count": 1508
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 52.22620689655172,
+      "median": 55.0,
+      "count": 725
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep6": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.157876943881,
+      "median": 51.0,
+      "count": 2958
+    },
+    "progressive_liberal,other": {
+      "mean": 52.1105476673428,
+      "median": 58.0,
+      "count": 986
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.595905172413794,
+      "median": 47.0,
+      "count": 1856
+    },
+    "other,conservative_traditional": {
+      "mean": 48.69375,
+      "median": 47.0,
+      "count": 480
+    },
+    "other,progressive_liberal": {
+      "mean": 51.237908496732025,
+      "median": 50.0,
+      "count": 765
+    },
+    "other,other": {
+      "mean": 51.68627450980392,
+      "median": 58.0,
+      "count": 255
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 53.021060275962235,
+      "median": 53.0,
+      "count": 1377
+    },
+    "conservative_traditional,other": {
+      "mean": 45.17211328976035,
+      "median": 42.0,
+      "count": 459
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.3125,
+      "median": 49.0,
+      "count": 864
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep7": {
+    "other,other": {
+      "mean": 52.421052631578945,
+      "median": 55.0,
+      "count": 304
+    },
+    "other,conservative_traditional": {
+      "mean": 51.22248803827751,
+      "median": 54.0,
+      "count": 418
+    },
+    "other,progressive_liberal": {
+      "mean": 49.74787775891341,
+      "median": 48.0,
+      "count": 1178
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 53.047766749379655,
+      "median": 54.0,
+      "count": 1612
+    },
+    "conservative_traditional,other": {
+      "mean": 44.93028846153846,
+      "median": 42.5,
+      "count": 416
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 47.37062937062937,
+      "median": 45.0,
+      "count": 572
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 49.68387096774194,
+      "median": 48.0,
+      "count": 3410
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.135537190082644,
+      "median": 52.0,
+      "count": 1210
+    },
+    "progressive_liberal,other": {
+      "mean": 52.788636363636364,
+      "median": 58.5,
+      "count": 880
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep8": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 53.810344827586206,
+      "median": 55.0,
+      "count": 870
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.614666666666665,
+      "median": 52.0,
+      "count": 1500
+    },
+    "conservative_traditional,other": {
+      "mean": 45.65555555555556,
+      "median": 39.0,
+      "count": 630
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.28545454545455,
+      "median": 50.0,
+      "count": 2750
+    },
+    "progressive_liberal,other": {
+      "mean": 53.995670995671,
+      "median": 59.0,
+      "count": 1155
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.338557993730404,
+      "median": 47.0,
+      "count": 1595
+    },
+    "other,progressive_liberal": {
+      "mean": 52.28933333333333,
+      "median": 53.5,
+      "count": 750
+    },
+    "other,conservative_traditional": {
+      "mean": 47.96091954022989,
+      "median": 44.0,
+      "count": 435
+    },
+    "other,other": {
+      "mean": 49.74603174603175,
+      "median": 50.0,
+      "count": 315
+    }
+  },
+  "abortion/uniform/no_persona_no_context/rep9": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 52.73974849644615,
+      "median": 54.0,
+      "count": 1829
+    },
+    "progressive_liberal,other": {
+      "mean": 48.057781201849,
+      "median": 44.5,
+      "count": 1298
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.16588532275514,
+      "median": 51.0,
+      "count": 2773
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.89454094292804,
+      "median": 50.5,
+      "count": 806
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.49590834697218,
+      "median": 51.0,
+      "count": 1222
+    },
+    "conservative_traditional,other": {
+      "mean": 51.36188811188811,
+      "median": 48.5,
+      "count": 572
+    },
+    "other,progressive_liberal": {
+      "mean": 51.34184397163121,
+      "median": 52.0,
+      "count": 705
+    },
+    "other,other": {
+      "mean": 46.43030303030303,
+      "median": 41.5,
+      "count": 330
+    },
+    "other,conservative_traditional": {
+      "mean": 52.111827956989245,
+      "median": 54.0,
+      "count": 465
+    }
+  },
+  "abortion/clustered/persona_no_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 37.95508771929825,
+      "median": 35.0,
+      "count": 5700
+    },
+    "progressive_liberal,other": {
+      "mean": 60.613125,
+      "median": 60.0,
+      "count": 1600
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 70.99074074074075,
+      "median": 72.0,
+      "count": 2700
+    }
+  },
+  "abortion/clustered/persona_no_context/rep1": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 24.723055555555554,
+      "median": 20.0,
+      "count": 3600
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 69.04468085106383,
+      "median": 70.0,
+      "count": 4700
+    },
+    "conservative_traditional,other": {
+      "mean": 53.81588235294117,
+      "median": 47.0,
+      "count": 1700
+    }
+  },
+  "abortion/clustered/persona_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.555263157894736,
+      "median": 52.0,
+      "count": 5700
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.99962962962963,
+      "median": 51.0,
+      "count": 2700
+    },
+    "progressive_liberal,other": {
+      "mean": 47.585,
+      "median": 44.0,
+      "count": 1600
+    }
+  },
+  "abortion/clustered/persona_context/rep1": {
+    "conservative_traditional,progressive_liberal": {
+      "mean": 48.107021276595745,
+      "median": 46.0,
+      "count": 4700
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 48.72888888888889,
+      "median": 48.0,
+      "count": 3600
+    },
+    "conservative_traditional,other": {
+      "mean": 60.866470588235295,
+      "median": 60.0,
+      "count": 1700
+    }
+  },
+  "abortion/clustered/no_persona_context/rep0": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.66444444444444,
+      "median": 48.0,
+      "count": 2700
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.28263157894737,
+      "median": 53.0,
+      "count": 5700
+    },
+    "progressive_liberal,other": {
+      "mean": 47.246875,
+      "median": 45.0,
+      "count": 1600
+    }
+  },
+  "abortion/clustered/no_persona_context/rep1": {
+    "conservative_traditional,progressive_liberal": {
+      "mean": 54.026382978723404,
+      "median": 56.0,
+      "count": 4700
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 47.749722222222225,
+      "median": 46.0,
+      "count": 3600
+    },
+    "conservative_traditional,other": {
+      "mean": 46.574705882352944,
+      "median": 44.0,
+      "count": 1700
+    }
+  },
+  "abortion/clustered/no_persona_no_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.460701754385966,
+      "median": 49.0,
+      "count": 5700
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.82666666666667,
+      "median": 49.0,
+      "count": 2700
+    },
+    "progressive_liberal,other": {
+      "mean": 53.46375,
+      "median": 61.0,
+      "count": 1600
+    }
+  },
+  "abortion/clustered/no_persona_no_context/rep1": {
+    "conservative_traditional,other": {
+      "mean": 42.38647058823529,
+      "median": 35.0,
+      "count": 1700
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.030212765957444,
+      "median": 51.0,
+      "count": 4700
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 53.63916666666667,
+      "median": 55.0,
+      "count": 3600
+    }
+  },
+  "electoral/uniform/persona_no_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 42.40153452685422,
+      "median": 38.0,
+      "count": 2346
+    },
+    "progressive_liberal,other": {
+      "mean": 48.13333333333333,
+      "median": 44.0,
+      "count": 690
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 63.691815856777495,
+      "median": 69.0,
+      "count": 1564
+    },
+    "other,conservative_traditional": {
+      "mean": 41.92906574394463,
+      "median": 36.0,
+      "count": 578
+    },
+    "other,progressive_liberal": {
+      "mean": 54.21568627450981,
+      "median": 55.0,
+      "count": 867
+    },
+    "other,other": {
+      "mean": 57.294117647058826,
+      "median": 59.0,
+      "count": 255
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 26.477742448330684,
+      "median": 21.0,
+      "count": 1258
+    },
+    "conservative_traditional,other": {
+      "mean": 61.48288288288288,
+      "median": 62.0,
+      "count": 555
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 63.2845786963434,
+      "median": 65.0,
+      "count": 1887
+    }
+  },
+  "electoral/uniform/persona_no_context/rep1": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 38.351020408163265,
+      "median": 34.0,
+      "count": 2695
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 69.40155844155844,
+      "median": 72.0,
+      "count": 1925
+    },
+    "progressive_liberal,other": {
+      "mean": 46.35909090909091,
+      "median": 42.0,
+      "count": 880
+    },
+    "conservative_traditional,other": {
+      "mean": 49.9125,
+      "median": 45.0,
+      "count": 480
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 25.86857142857143,
+      "median": 21.5,
+      "count": 1050
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 68.28571428571429,
+      "median": 69.0,
+      "count": 1470
+    },
+    "other,conservative_traditional": {
+      "mean": 43.87238095238095,
+      "median": 38.0,
+      "count": 525
+    },
+    "other,other": {
+      "mean": 47.05833333333333,
+      "median": 45.0,
+      "count": 240
+    },
+    "other,progressive_liberal": {
+      "mean": 56.3578231292517,
+      "median": 58.0,
+      "count": 735
+    }
+  },
+  "electoral/uniform/persona_no_context/rep2": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 39.44814814814815,
+      "median": 35.0,
+      "count": 2700
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 67.62363834422658,
+      "median": 71.0,
+      "count": 1836
+    },
+    "progressive_liberal,other": {
+      "mean": 48.64930555555556,
+      "median": 45.0,
+      "count": 864
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 24.614973262032084,
+      "median": 19.5,
+      "count": 1122
+    },
+    "conservative_traditional,other": {
+      "mean": 54.72727272727273,
+      "median": 54.0,
+      "count": 528
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 66.74909090909091,
+      "median": 67.0,
+      "count": 1650
+    },
+    "other,progressive_liberal": {
+      "mean": 55.4,
+      "median": 55.0,
+      "count": 650
+    },
+    "other,conservative_traditional": {
+      "mean": 43.93438914027149,
+      "median": 37.0,
+      "count": 442
+    },
+    "other,other": {
+      "mean": 49.13942307692308,
+      "median": 46.5,
+      "count": 208
+    }
+  },
+  "electoral/uniform/persona_no_context/rep3": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 43.233265720081135,
+      "median": 39.0,
+      "count": 2958
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 65.30085784313725,
+      "median": 70.0,
+      "count": 1632
+    },
+    "progressive_liberal,other": {
+      "mean": 45.28431372549019,
+      "median": 42.0,
+      "count": 510
+    },
+    "other,conservative_traditional": {
+      "mean": 38.420138888888886,
+      "median": 30.5,
+      "count": 576
+    },
+    "other,progressive_liberal": {
+      "mean": 58.07950191570881,
+      "median": 61.0,
+      "count": 1044
+    },
+    "other,other": {
+      "mean": 45.19444444444444,
+      "median": 42.0,
+      "count": 180
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 26.640120967741936,
+      "median": 21.0,
+      "count": 992
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 63.97942157953281,
+      "median": 66.0,
+      "count": 1798
+    },
+    "conservative_traditional,other": {
+      "mean": 48.670967741935485,
+      "median": 42.5,
+      "count": 310
+    }
+  },
+  "electoral/uniform/persona_no_context/rep4": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 22.440952380952382,
+      "median": 17.0,
+      "count": 1050
+    },
+    "conservative_traditional,other": {
+      "mean": 62.55844155844156,
+      "median": 61.0,
+      "count": 385
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 62.51912832929782,
+      "median": 64.0,
+      "count": 2065
+    },
+    "other,conservative_traditional": {
+      "mean": 37.94,
+      "median": 30.0,
+      "count": 450
+    },
+    "other,progressive_liberal": {
+      "mean": 55.777401129943506,
+      "median": 56.0,
+      "count": 885
+    },
+    "other,other": {
+      "mean": 56.448484848484846,
+      "median": 58.0,
+      "count": 165
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 44.99322033898305,
+      "median": 40.0,
+      "count": 2950
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 61.31666666666667,
+      "median": 67.0,
+      "count": 1500
+    },
+    "progressive_liberal,other": {
+      "mean": 50.53636363636364,
+      "median": 47.0,
+      "count": 550
+    }
+  },
+  "electoral/uniform/persona_no_context/rep5": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 41.05693815987934,
+      "median": 36.0,
+      "count": 2652
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 65.22802197802197,
+      "median": 70.0,
+      "count": 1820
+    },
+    "progressive_liberal,other": {
+      "mean": 48.07967032967033,
+      "median": 46.0,
+      "count": 728
+    },
+    "other,conservative_traditional": {
+      "mean": 43.19548872180451,
+      "median": 36.0,
+      "count": 665
+    },
+    "other,other": {
+      "mean": 52.75187969924812,
+      "median": 51.0,
+      "count": 266
+    },
+    "other,progressive_liberal": {
+      "mean": 54.89473684210526,
+      "median": 55.0,
+      "count": 969
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 23.488669950738917,
+      "median": 20.0,
+      "count": 1015
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 65.65382014874915,
+      "median": 68.0,
+      "count": 1479
+    },
+    "conservative_traditional,other": {
+      "mean": 62.82512315270936,
+      "median": 61.5,
+      "count": 406
+    }
+  },
+  "electoral/uniform/persona_no_context/rep6": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 41.95141065830721,
+      "median": 36.0,
+      "count": 3190
+    },
+    "progressive_liberal,other": {
+      "mean": 52.32183908045977,
+      "median": 50.0,
+      "count": 870
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 65.26149425287356,
+      "median": 68.0,
+      "count": 1740
+    },
+    "other,conservative_traditional": {
+      "mean": 47.53111111111111,
+      "median": 51.5,
+      "count": 450
+    },
+    "other,progressive_liberal": {
+      "mean": 51.41818181818182,
+      "median": 50.0,
+      "count": 825
+    },
+    "other,other": {
+      "mean": 53.07111111111111,
+      "median": 52.0,
+      "count": 225
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 21.146913580246913,
+      "median": 17.0,
+      "count": 810
+    },
+    "conservative_traditional,other": {
+      "mean": 55.693827160493825,
+      "median": 54.0,
+      "count": 405
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 65.0942760942761,
+      "median": 67.0,
+      "count": 1485
+    }
+  },
+  "electoral/uniform/persona_no_context/rep7": {
+    "other,other": {
+      "mean": 48.501754385964915,
+      "median": 43.0,
+      "count": 285
+    },
+    "other,progressive_liberal": {
+      "mean": 51.106988783434,
+      "median": 51.0,
+      "count": 1159
+    },
+    "other,conservative_traditional": {
+      "mean": 50.20614035087719,
+      "median": 54.5,
+      "count": 456
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 19.947115384615383,
+      "median": 15.0,
+      "count": 624
+    },
+    "conservative_traditional,other": {
+      "mean": 51.56153846153846,
+      "median": 47.0,
+      "count": 390
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 62.259773013871374,
+      "median": 63.0,
+      "count": 1586
+    },
+    "progressive_liberal,other": {
+      "mean": 49.18545454545455,
+      "median": 46.0,
+      "count": 825
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 45.06736214605067,
+      "median": 42.0,
+      "count": 3355
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 65.12954545454545,
+      "median": 69.0,
+      "count": 1320
+    }
+  },
+  "electoral/uniform/persona_no_context/rep8": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 23.025925925925925,
+      "median": 18.0,
+      "count": 810
+    },
+    "conservative_traditional,other": {
+      "mean": 47.023529411764706,
+      "median": 42.5,
+      "count": 510
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 64.80178571428571,
+      "median": 66.0,
+      "count": 1680
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 64.88754208754209,
+      "median": 69.0,
+      "count": 1485
+    },
+    "progressive_liberal,other": {
+      "mean": 50.01711229946524,
+      "median": 48.0,
+      "count": 935
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 43.70974025974026,
+      "median": 40.0,
+      "count": 3080
+    },
+    "other,conservative_traditional": {
+      "mean": 46.08888888888889,
+      "median": 44.0,
+      "count": 405
+    },
+    "other,other": {
+      "mean": 46.792156862745095,
+      "median": 41.0,
+      "count": 255
+    },
+    "other,progressive_liberal": {
+      "mean": 53.75238095238095,
+      "median": 54.0,
+      "count": 840
+    }
+  },
+  "electoral/uniform/persona_no_context/rep9": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 41.622496147919875,
+      "median": 37.0,
+      "count": 2596
+    },
+    "progressive_liberal,other": {
+      "mean": 46.326656394453,
+      "median": 42.0,
+      "count": 1298
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 64.68893320039881,
+      "median": 68.0,
+      "count": 2006
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 25.42420814479638,
+      "median": 22.0,
+      "count": 884
+    },
+    "conservative_traditional,other": {
+      "mean": 50.57167832167832,
+      "median": 49.0,
+      "count": 572
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 69.8409090909091,
+      "median": 72.0,
+      "count": 1144
+    },
+    "other,progressive_liberal": {
+      "mean": 59.165151515151514,
+      "median": 64.0,
+      "count": 660
+    },
+    "other,other": {
+      "mean": 45.67272727272727,
+      "median": 42.0,
+      "count": 330
+    },
+    "other,conservative_traditional": {
+      "mean": 42.409803921568624,
+      "median": 38.0,
+      "count": 510
+    }
+  },
+  "electoral/uniform/persona_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 49.49658994032396,
+      "median": 48.0,
+      "count": 2346
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.92391304347826,
+      "median": 52.0,
+      "count": 1564
+    },
+    "progressive_liberal,other": {
+      "mean": 50.68405797101449,
+      "median": 54.5,
+      "count": 690
+    },
+    "other,conservative_traditional": {
+      "mean": 50.10553633217993,
+      "median": 49.0,
+      "count": 578
+    },
+    "other,progressive_liberal": {
+      "mean": 50.267589388696656,
+      "median": 49.0,
+      "count": 867
+    },
+    "other,other": {
+      "mean": 52.1843137254902,
+      "median": 57.0,
+      "count": 255
+    },
+    "conservative_traditional,other": {
+      "mean": 52.87747747747748,
+      "median": 58.0,
+      "count": 555
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 49.611552729199786,
+      "median": 49.0,
+      "count": 1887
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.78378378378378,
+      "median": 49.0,
+      "count": 1258
+    }
+  },
+  "electoral/uniform/persona_context/rep1": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.21632653061224,
+      "median": 47.0,
+      "count": 2695
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.814025974025974,
+      "median": 47.0,
+      "count": 1925
+    },
+    "progressive_liberal,other": {
+      "mean": 61.18181818181818,
+      "median": 64.0,
+      "count": 880
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 52.22380952380952,
+      "median": 53.0,
+      "count": 1050
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 54.81156462585034,
+      "median": 56.0,
+      "count": 1470
+    },
+    "conservative_traditional,other": {
+      "mean": 33.525,
+      "median": 25.0,
+      "count": 480
+    },
+    "other,progressive_liberal": {
+      "mean": 52.8734693877551,
+      "median": 55.0,
+      "count": 735
+    },
+    "other,other": {
+      "mean": 45.545833333333334,
+      "median": 43.0,
+      "count": 240
+    },
+    "other,conservative_traditional": {
+      "mean": 49.44190476190476,
+      "median": 47.0,
+      "count": 525
+    }
+  },
+  "electoral/uniform/persona_context/rep2": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 50.65631808278867,
+      "median": 53.0,
+      "count": 1836
+    },
+    "progressive_liberal,other": {
+      "mean": 46.104166666666664,
+      "median": 43.0,
+      "count": 864
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.80037037037037,
+      "median": 52.0,
+      "count": 2700
+    },
+    "conservative_traditional,other": {
+      "mean": 57.70075757575758,
+      "median": 64.0,
+      "count": 528
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.06242424242424,
+      "median": 49.5,
+      "count": 1650
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 46.28431372549019,
+      "median": 45.0,
+      "count": 1122
+    },
+    "other,conservative_traditional": {
+      "mean": 47.36425339366516,
+      "median": 45.0,
+      "count": 442
+    },
+    "other,progressive_liberal": {
+      "mean": 51.89692307692307,
+      "median": 52.0,
+      "count": 650
+    },
+    "other,other": {
+      "mean": 52.79807692307692,
+      "median": 53.5,
+      "count": 208
+    }
+  },
+  "electoral/uniform/persona_context/rep3": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.0841784989858,
+      "median": 54.0,
+      "count": 2958
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 50.208333333333336,
+      "median": 49.5,
+      "count": 1632
+    },
+    "progressive_liberal,other": {
+      "mean": 42.245098039215684,
+      "median": 39.5,
+      "count": 510
+    },
+    "other,conservative_traditional": {
+      "mean": 51.75347222222222,
+      "median": 54.0,
+      "count": 576
+    },
+    "other,progressive_liberal": {
+      "mean": 48.583333333333336,
+      "median": 46.0,
+      "count": 1044
+    },
+    "other,other": {
+      "mean": 57.605555555555554,
+      "median": 57.0,
+      "count": 180
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 46.3587319243604,
+      "median": 43.0,
+      "count": 1798
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 53.60181451612903,
+      "median": 55.0,
+      "count": 992
+    },
+    "conservative_traditional,other": {
+      "mean": 64.59354838709677,
+      "median": 65.0,
+      "count": 310
+    }
+  },
+  "electoral/uniform/persona_context/rep4": {
+    "conservative_traditional,progressive_liberal": {
+      "mean": 49.43680387409201,
+      "median": 49.0,
+      "count": 2065
+    },
+    "conservative_traditional,other": {
+      "mean": 45.72987012987013,
+      "median": 44.0,
+      "count": 385
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 54.34,
+      "median": 58.0,
+      "count": 1050
+    },
+    "other,other": {
+      "mean": 47.587878787878786,
+      "median": 44.0,
+      "count": 165
+    },
+    "other,progressive_liberal": {
+      "mean": 51.70282485875706,
+      "median": 53.0,
+      "count": 885
+    },
+    "other,conservative_traditional": {
+      "mean": 49.202222222222225,
+      "median": 47.0,
+      "count": 450
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 44.11333333333334,
+      "median": 39.0,
+      "count": 1500
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.4728813559322,
+      "median": 55.0,
+      "count": 2950
+    },
+    "progressive_liberal,other": {
+      "mean": 57.336363636363636,
+      "median": 56.0,
+      "count": 550
+    }
+  },
+  "electoral/uniform/persona_context/rep5": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 53.38876319758673,
+      "median": 55.0,
+      "count": 2652
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.489010989010985,
+      "median": 49.0,
+      "count": 1820
+    },
+    "progressive_liberal,other": {
+      "mean": 45.004120879120876,
+      "median": 39.0,
+      "count": 728
+    },
+    "other,conservative_traditional": {
+      "mean": 49.84511278195489,
+      "median": 50.0,
+      "count": 665
+    },
+    "other,progressive_liberal": {
+      "mean": 51.20123839009288,
+      "median": 51.0,
+      "count": 969
+    },
+    "other,other": {
+      "mean": 49.58270676691729,
+      "median": 50.5,
+      "count": 266
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 47.57133198106829,
+      "median": 47.0,
+      "count": 1479
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 52.15172413793103,
+      "median": 51.0,
+      "count": 1015
+    },
+    "conservative_traditional,other": {
+      "mean": 57.039408866995075,
+      "median": 63.0,
+      "count": 406
+    }
+  },
+  "electoral/uniform/persona_context/rep6": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.89278996865204,
+      "median": 51.0,
+      "count": 3190
+    },
+    "progressive_liberal,other": {
+      "mean": 44.65632183908046,
+      "median": 42.0,
+      "count": 870
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 52.70172413793104,
+      "median": 56.0,
+      "count": 1740
+    },
+    "other,progressive_liberal": {
+      "mean": 50.11030303030303,
+      "median": 50.0,
+      "count": 825
+    },
+    "other,conservative_traditional": {
+      "mean": 54.16444444444444,
+      "median": 58.0,
+      "count": 450
+    },
+    "other,other": {
+      "mean": 44.6,
+      "median": 41.0,
+      "count": 225
+    },
+    "conservative_traditional,other": {
+      "mean": 51.99012345679012,
+      "median": 51.0,
+      "count": 405
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 52.25185185185185,
+      "median": 58.0,
+      "count": 810
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 49.138047138047135,
+      "median": 47.0,
+      "count": 1485
+    }
+  },
+  "electoral/uniform/persona_context/rep7": {
+    "other,progressive_liberal": {
+      "mean": 51.18205349439172,
+      "median": 53.0,
+      "count": 1159
+    },
+    "other,conservative_traditional": {
+      "mean": 48.32236842105263,
+      "median": 48.0,
+      "count": 456
+    },
+    "other,other": {
+      "mean": 51.21052631578947,
+      "median": 50.0,
+      "count": 285
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 47.467948717948715,
+      "median": 46.0,
+      "count": 624
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.13366960907945,
+      "median": 53.0,
+      "count": 1586
+    },
+    "conservative_traditional,other": {
+      "mean": 52.774358974358975,
+      "median": 49.0,
+      "count": 390
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.22954545454545,
+      "median": 48.0,
+      "count": 1320
+    },
+    "progressive_liberal,other": {
+      "mean": 53.18666666666667,
+      "median": 53.0,
+      "count": 825
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.33919523099851,
+      "median": 51.0,
+      "count": 3355
+    }
+  },
+  "electoral/uniform/persona_context/rep8": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 47.90493827160494,
+      "median": 45.0,
+      "count": 810
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.675,
+      "median": 53.0,
+      "count": 1680
+    },
+    "conservative_traditional,other": {
+      "mean": 47.456862745098036,
+      "median": 47.0,
+      "count": 510
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.267340067340065,
+      "median": 53.0,
+      "count": 1485
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.407467532467535,
+      "median": 47.0,
+      "count": 3080
+    },
+    "progressive_liberal,other": {
+      "mean": 56.17433155080214,
+      "median": 57.0,
+      "count": 935
+    },
+    "other,progressive_liberal": {
+      "mean": 50.121428571428574,
+      "median": 50.0,
+      "count": 840
+    },
+    "other,conservative_traditional": {
+      "mean": 50.434567901234566,
+      "median": 52.0,
+      "count": 405
+    },
+    "other,other": {
+      "mean": 51.85098039215686,
+      "median": 51.0,
+      "count": 255
+    }
+  },
+  "electoral/uniform/persona_context/rep9": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.95454545454545,
+      "median": 48.0,
+      "count": 2596
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 52.49700897308076,
+      "median": 54.0,
+      "count": 2006
+    },
+    "progressive_liberal,other": {
+      "mean": 50.50462249614792,
+      "median": 50.0,
+      "count": 1298
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 48.460407239819006,
+      "median": 45.5,
+      "count": 884
+    },
+    "conservative_traditional,other": {
+      "mean": 49.35664335664335,
+      "median": 53.0,
+      "count": 572
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.64772727272727,
+      "median": 54.0,
+      "count": 1144
+    },
+    "other,progressive_liberal": {
+      "mean": 50.67575757575757,
+      "median": 50.5,
+      "count": 660
+    },
+    "other,conservative_traditional": {
+      "mean": 51.01372549019608,
+      "median": 49.5,
+      "count": 510
+    },
+    "other,other": {
+      "mean": 49.35454545454545,
+      "median": 52.0,
+      "count": 330
+    }
+  },
+  "electoral/uniform/no_persona_context/rep0": {
+    "progressive_liberal,other": {
+      "mean": 51.44202898550725,
+      "median": 52.0,
+      "count": 690
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.77557544757033,
+      "median": 46.0,
+      "count": 1564
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.372549019607845,
+      "median": 52.0,
+      "count": 2346
+    },
+    "other,conservative_traditional": {
+      "mean": 48.346020761245676,
+      "median": 46.0,
+      "count": 578
+    },
+    "other,progressive_liberal": {
+      "mean": 51.523644752018456,
+      "median": 53.0,
+      "count": 867
+    },
+    "other,other": {
+      "mean": 51.90196078431372,
+      "median": 51.0,
+      "count": 255
+    },
+    "conservative_traditional,other": {
+      "mean": 52.94954954954955,
+      "median": 52.0,
+      "count": 555
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.408585055643876,
+      "median": 50.0,
+      "count": 1887
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.55643879173291,
+      "median": 50.0,
+      "count": 1258
+    }
+  },
+  "electoral/uniform/no_persona_context/rep1": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 49.518367346938774,
+      "median": 50.0,
+      "count": 2695
+    },
+    "progressive_liberal,other": {
+      "mean": 51.586363636363636,
+      "median": 52.0,
+      "count": 880
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.377662337662336,
+      "median": 51.0,
+      "count": 1925
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 53.34897959183674,
+      "median": 56.0,
+      "count": 1470
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 48.06190476190476,
+      "median": 46.0,
+      "count": 1050
+    },
+    "conservative_traditional,other": {
+      "mean": 47.108333333333334,
+      "median": 45.0,
+      "count": 480
+    },
+    "other,progressive_liberal": {
+      "mean": 52.76054421768708,
+      "median": 55.0,
+      "count": 735
+    },
+    "other,other": {
+      "mean": 50.35,
+      "median": 47.5,
+      "count": 240
+    },
+    "other,conservative_traditional": {
+      "mean": 47.40380952380952,
+      "median": 44.0,
+      "count": 525
+    }
+  },
+  "electoral/uniform/no_persona_context/rep2": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.550108932461875,
+      "median": 48.0,
+      "count": 1836
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.904444444444444,
+      "median": 52.0,
+      "count": 2700
+    },
+    "progressive_liberal,other": {
+      "mean": 53.379629629629626,
+      "median": 52.0,
+      "count": 864
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.346666666666664,
+      "median": 51.0,
+      "count": 1650
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.39126559714795,
+      "median": 48.0,
+      "count": 1122
+    },
+    "conservative_traditional,other": {
+      "mean": 53.33522727272727,
+      "median": 52.5,
+      "count": 528
+    },
+    "other,conservative_traditional": {
+      "mean": 49.13122171945702,
+      "median": 50.0,
+      "count": 442
+    },
+    "other,progressive_liberal": {
+      "mean": 50.776923076923076,
+      "median": 52.0,
+      "count": 650
+    },
+    "other,other": {
+      "mean": 52.54326923076923,
+      "median": 48.0,
+      "count": 208
+    }
+  },
+  "electoral/uniform/no_persona_context/rep3": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.683569979716026,
+      "median": 51.0,
+      "count": 2958
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.244485294117645,
+      "median": 52.0,
+      "count": 1632
+    },
+    "progressive_liberal,other": {
+      "mean": 47.05294117647059,
+      "median": 42.0,
+      "count": 510
+    },
+    "other,progressive_liberal": {
+      "mean": 50.75574712643678,
+      "median": 50.0,
+      "count": 1044
+    },
+    "other,conservative_traditional": {
+      "mean": 50.03125,
+      "median": 52.0,
+      "count": 576
+    },
+    "other,other": {
+      "mean": 50.516666666666666,
+      "median": 50.5,
+      "count": 180
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.224694104560626,
+      "median": 49.0,
+      "count": 1798
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.90725806451613,
+      "median": 52.5,
+      "count": 992
+    },
+    "conservative_traditional,other": {
+      "mean": 53.99354838709677,
+      "median": 58.5,
+      "count": 310
+    }
+  },
+  "electoral/uniform/no_persona_context/rep4": {
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.16755447941889,
+      "median": 52.0,
+      "count": 2065
+    },
+    "conservative_traditional,other": {
+      "mean": 62.62337662337662,
+      "median": 72.0,
+      "count": 385
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 44.74190476190476,
+      "median": 43.0,
+      "count": 1050
+    },
+    "other,conservative_traditional": {
+      "mean": 47.175555555555555,
+      "median": 46.0,
+      "count": 450
+    },
+    "other,progressive_liberal": {
+      "mean": 50.548022598870055,
+      "median": 52.0,
+      "count": 885
+    },
+    "other,other": {
+      "mean": 59.30909090909091,
+      "median": 69.0,
+      "count": 165
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 49.15186440677966,
+      "median": 48.0,
+      "count": 2950
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.897333333333336,
+      "median": 53.0,
+      "count": 1500
+    },
+    "progressive_liberal,other": {
+      "mean": 53.92,
+      "median": 61.0,
+      "count": 550
+    }
+  },
+  "electoral/uniform/no_persona_context/rep5": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.823906485671195,
+      "median": 54.0,
+      "count": 2652
+    },
+    "progressive_liberal,other": {
+      "mean": 44.71291208791209,
+      "median": 40.5,
+      "count": 728
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.42857142857143,
+      "median": 48.0,
+      "count": 1820
+    },
+    "other,other": {
+      "mean": 49.857142857142854,
+      "median": 51.0,
+      "count": 266
+    },
+    "other,progressive_liberal": {
+      "mean": 51.63673890608875,
+      "median": 52.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 49.100751879699246,
+      "median": 48.0,
+      "count": 665
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.43152709359606,
+      "median": 51.0,
+      "count": 1015
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 49.7498309668695,
+      "median": 49.0,
+      "count": 1479
+    },
+    "conservative_traditional,other": {
+      "mean": 53.40394088669951,
+      "median": 61.0,
+      "count": 406
+    }
+  },
+  "electoral/uniform/no_persona_context/rep6": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.13510971786834,
+      "median": 51.0,
+      "count": 3190
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.74770114942529,
+      "median": 47.0,
+      "count": 1740
+    },
+    "progressive_liberal,other": {
+      "mean": 53.342528735632186,
+      "median": 53.0,
+      "count": 870
+    },
+    "other,other": {
+      "mean": 49.11555555555555,
+      "median": 45.0,
+      "count": 225
+    },
+    "other,progressive_liberal": {
+      "mean": 50.33090909090909,
+      "median": 52.0,
+      "count": 825
+    },
+    "other,conservative_traditional": {
+      "mean": 51.50222222222222,
+      "median": 52.5,
+      "count": 450
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 51.15802469135802,
+      "median": 53.5,
+      "count": 810
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.58720538720539,
+      "median": 51.0,
+      "count": 1485
+    },
+    "conservative_traditional,other": {
+      "mean": 48.864197530864196,
+      "median": 43.0,
+      "count": 405
+    }
+  },
+  "electoral/uniform/no_persona_context/rep7": {
+    "other,conservative_traditional": {
+      "mean": 51.53508771929825,
+      "median": 54.0,
+      "count": 456
+    },
+    "other,progressive_liberal": {
+      "mean": 49.734253666954274,
+      "median": 48.0,
+      "count": 1159
+    },
+    "other,other": {
+      "mean": 51.95789473684211,
+      "median": 53.0,
+      "count": 285
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 48.7093316519546,
+      "median": 47.0,
+      "count": 1586
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 53.66025641025641,
+      "median": 59.0,
+      "count": 624
+    },
+    "conservative_traditional,other": {
+      "mean": 52.725641025641025,
+      "median": 51.0,
+      "count": 390
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.63129657228018,
+      "median": 50.0,
+      "count": 3355
+    },
+    "progressive_liberal,other": {
+      "mean": 55.28606060606061,
+      "median": 56.0,
+      "count": 825
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 47.175,
+      "median": 47.5,
+      "count": 1320
+    }
+  },
+  "electoral/uniform/no_persona_context/rep8": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 48.690123456790126,
+      "median": 48.0,
+      "count": 810
+    },
+    "conservative_traditional,other": {
+      "mean": 51.194117647058825,
+      "median": 50.0,
+      "count": 510
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.161904761904765,
+      "median": 52.0,
+      "count": 1680
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.84915824915825,
+      "median": 48.0,
+      "count": 1485
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.72824675324675,
+      "median": 50.0,
+      "count": 3080
+    },
+    "progressive_liberal,other": {
+      "mean": 52.370053475935826,
+      "median": 56.0,
+      "count": 935
+    },
+    "other,conservative_traditional": {
+      "mean": 49.02469135802469,
+      "median": 47.0,
+      "count": 405
+    },
+    "other,progressive_liberal": {
+      "mean": 50.75119047619047,
+      "median": 51.0,
+      "count": 840
+    },
+    "other,other": {
+      "mean": 52.015686274509804,
+      "median": 53.0,
+      "count": 255
+    }
+  },
+  "electoral/uniform/no_persona_context/rep9": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 47.86989032901296,
+      "median": 46.0,
+      "count": 2006
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 53.75346687211094,
+      "median": 55.0,
+      "count": 2596
+    },
+    "progressive_liberal,other": {
+      "mean": 48.057781201849,
+      "median": 46.0,
+      "count": 1298
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.07167832167832,
+      "median": 51.0,
+      "count": 1144
+    },
+    "conservative_traditional,other": {
+      "mean": 46.08566433566433,
+      "median": 41.5,
+      "count": 572
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 51.32239819004525,
+      "median": 55.0,
+      "count": 884
+    },
+    "other,progressive_liberal": {
+      "mean": 52.29545454545455,
+      "median": 52.0,
+      "count": 660
+    },
+    "other,conservative_traditional": {
+      "mean": 50.01764705882353,
+      "median": 51.0,
+      "count": 510
+    },
+    "other,other": {
+      "mean": 47.654545454545456,
+      "median": 44.0,
+      "count": 330
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.47826086956522,
+      "median": 53.0,
+      "count": 2346
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 47.9846547314578,
+      "median": 48.0,
+      "count": 1564
+    },
+    "progressive_liberal,other": {
+      "mean": 49.47536231884058,
+      "median": 48.0,
+      "count": 690
+    },
+    "other,conservative_traditional": {
+      "mean": 48.42733564013841,
+      "median": 48.0,
+      "count": 578
+    },
+    "other,progressive_liberal": {
+      "mean": 52.44059976931949,
+      "median": 53.0,
+      "count": 867
+    },
+    "other,other": {
+      "mean": 48.6,
+      "median": 47.0,
+      "count": 255
+    },
+    "conservative_traditional,other": {
+      "mean": 47.15495495495495,
+      "median": 46.0,
+      "count": 555
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.074721780604136,
+      "median": 52.0,
+      "count": 1887
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.61367249602544,
+      "median": 51.0,
+      "count": 1258
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep1": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.36771799628942,
+      "median": 49.0,
+      "count": 2695
+    },
+    "progressive_liberal,other": {
+      "mean": 52.393181818181816,
+      "median": 54.0,
+      "count": 880
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.81974025974026,
+      "median": 50.0,
+      "count": 1925
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.56530612244898,
+      "median": 54.0,
+      "count": 1470
+    },
+    "conservative_traditional,other": {
+      "mean": 45.22291666666667,
+      "median": 42.0,
+      "count": 480
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.02095238095238,
+      "median": 49.0,
+      "count": 1050
+    },
+    "other,other": {
+      "mean": 50.09583333333333,
+      "median": 49.0,
+      "count": 240
+    },
+    "other,conservative_traditional": {
+      "mean": 49.687619047619044,
+      "median": 48.0,
+      "count": 525
+    },
+    "other,progressive_liberal": {
+      "mean": 51.21224489795918,
+      "median": 52.0,
+      "count": 735
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep2": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.25222222222222,
+      "median": 51.0,
+      "count": 2700
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 47.24727668845316,
+      "median": 46.0,
+      "count": 1836
+    },
+    "progressive_liberal,other": {
+      "mean": 55.061342592592595,
+      "median": 59.0,
+      "count": 864
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 49.490196078431374,
+      "median": 50.0,
+      "count": 1122
+    },
+    "conservative_traditional,other": {
+      "mean": 43.020833333333336,
+      "median": 36.0,
+      "count": 528
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 53.58,
+      "median": 55.0,
+      "count": 1650
+    },
+    "other,other": {
+      "mean": 50.47115384615385,
+      "median": 47.5,
+      "count": 208
+    },
+    "other,progressive_liberal": {
+      "mean": 53.12,
+      "median": 54.0,
+      "count": 650
+    },
+    "other,conservative_traditional": {
+      "mean": 46.660633484162894,
+      "median": 46.0,
+      "count": 442
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep3": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.98039215686274,
+      "median": 48.0,
+      "count": 1632
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.827586206896555,
+      "median": 51.0,
+      "count": 2958
+    },
+    "progressive_liberal,other": {
+      "mean": 53.462745098039214,
+      "median": 54.0,
+      "count": 510
+    },
+    "other,progressive_liberal": {
+      "mean": 51.64655172413793,
+      "median": 52.0,
+      "count": 1044
+    },
+    "other,conservative_traditional": {
+      "mean": 47.447916666666664,
+      "median": 48.0,
+      "count": 576
+    },
+    "other,other": {
+      "mean": 53.61666666666667,
+      "median": 51.0,
+      "count": 180
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.83314794215795,
+      "median": 50.0,
+      "count": 1798
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.33568548387097,
+      "median": 52.0,
+      "count": 992
+    },
+    "conservative_traditional,other": {
+      "mean": 49.093548387096774,
+      "median": 45.0,
+      "count": 310
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep4": {
+    "conservative_traditional,other": {
+      "mean": 58.753246753246756,
+      "median": 61.0,
+      "count": 385
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.88232445520581,
+      "median": 51.0,
+      "count": 2065
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 46.72190476190476,
+      "median": 44.5,
+      "count": 1050
+    },
+    "other,other": {
+      "mean": 51.99393939393939,
+      "median": 52.0,
+      "count": 165
+    },
+    "other,conservative_traditional": {
+      "mean": 49.102222222222224,
+      "median": 48.5,
+      "count": 450
+    },
+    "other,progressive_liberal": {
+      "mean": 50.932203389830505,
+      "median": 51.0,
+      "count": 885
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.62881355932203,
+      "median": 53.0,
+      "count": 2950
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.06133333333333,
+      "median": 49.0,
+      "count": 1500
+    },
+    "progressive_liberal,other": {
+      "mean": 48.36909090909091,
+      "median": 45.0,
+      "count": 550
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep5": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.293406593406594,
+      "median": 51.0,
+      "count": 1820
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.57277526395173,
+      "median": 51.0,
+      "count": 2652
+    },
+    "progressive_liberal,other": {
+      "mean": 48.25137362637363,
+      "median": 47.0,
+      "count": 728
+    },
+    "other,conservative_traditional": {
+      "mean": 49.642105263157895,
+      "median": 48.0,
+      "count": 665
+    },
+    "other,progressive_liberal": {
+      "mean": 51.13312693498452,
+      "median": 51.0,
+      "count": 969
+    },
+    "other,other": {
+      "mean": 50.338345864661655,
+      "median": 53.0,
+      "count": 266
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 48.13399014778325,
+      "median": 49.0,
+      "count": 1015
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.72819472616633,
+      "median": 51.0,
+      "count": 1479
+    },
+    "conservative_traditional,other": {
+      "mean": 51.94088669950739,
+      "median": 54.0,
+      "count": 406
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep6": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 48.25736677115987,
+      "median": 46.0,
+      "count": 3190
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 51.771264367816094,
+      "median": 55.0,
+      "count": 1740
+    },
+    "progressive_liberal,other": {
+      "mean": 56.18045977011494,
+      "median": 57.0,
+      "count": 870
+    },
+    "other,progressive_liberal": {
+      "mean": 48.48969696969697,
+      "median": 46.0,
+      "count": 825
+    },
+    "other,other": {
+      "mean": 54.67111111111111,
+      "median": 56.0,
+      "count": 225
+    },
+    "other,conservative_traditional": {
+      "mean": 52.1,
+      "median": 52.5,
+      "count": 450
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.51604938271605,
+      "median": 48.5,
+      "count": 810
+    },
+    "conservative_traditional,other": {
+      "mean": 50.05185185185185,
+      "median": 50.0,
+      "count": 405
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.613468013468015,
+      "median": 52.0,
+      "count": 1485
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep7": {
+    "other,progressive_liberal": {
+      "mean": 51.446074201898185,
+      "median": 51.0,
+      "count": 1159
+    },
+    "other,conservative_traditional": {
+      "mean": 50.405701754385966,
+      "median": 51.5,
+      "count": 456
+    },
+    "other,other": {
+      "mean": 46.80350877192983,
+      "median": 46.0,
+      "count": 285
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.1141235813367,
+      "median": 50.0,
+      "count": 1586
+    },
+    "conservative_traditional,other": {
+      "mean": 48.284615384615385,
+      "median": 52.0,
+      "count": 390
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.32371794871795,
+      "median": 49.0,
+      "count": 624
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.85394932935917,
+      "median": 52.0,
+      "count": 3355
+    },
+    "progressive_liberal,other": {
+      "mean": 46.78424242424242,
+      "median": 46.0,
+      "count": 825
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.38106060606061,
+      "median": 49.0,
+      "count": 1320
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep8": {
+    "conservative_traditional,other": {
+      "mean": 49.39019607843137,
+      "median": 53.0,
+      "count": 510
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 46.3,
+      "median": 44.0,
+      "count": 810
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.86190476190476,
+      "median": 54.0,
+      "count": 1680
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.9023569023569,
+      "median": 49.0,
+      "count": 1485
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 52.236363636363635,
+      "median": 53.0,
+      "count": 3080
+    },
+    "progressive_liberal,other": {
+      "mean": 45.72941176470588,
+      "median": 41.0,
+      "count": 935
+    },
+    "other,progressive_liberal": {
+      "mean": 52.285714285714285,
+      "median": 53.0,
+      "count": 840
+    },
+    "other,conservative_traditional": {
+      "mean": 47.37283950617284,
+      "median": 45.0,
+      "count": 405
+    },
+    "other,other": {
+      "mean": 49.5843137254902,
+      "median": 48.0,
+      "count": 255
+    }
+  },
+  "electoral/uniform/no_persona_no_context/rep9": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 53.606702619414484,
+      "median": 54.0,
+      "count": 2596
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 46.88833499501496,
+      "median": 45.0,
+      "count": 2006
+    },
+    "progressive_liberal,other": {
+      "mean": 49.868258859784284,
+      "median": 50.0,
+      "count": 1298
+    },
+    "conservative_traditional,other": {
+      "mean": 47.46153846153846,
+      "median": 45.0,
+      "count": 572
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 48.44343891402715,
+      "median": 49.0,
+      "count": 884
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 53.60839160839161,
+      "median": 54.0,
+      "count": 1144
+    },
+    "other,progressive_liberal": {
+      "mean": 52.916666666666664,
+      "median": 54.0,
+      "count": 660
+    },
+    "other,other": {
+      "mean": 46.58181818181818,
+      "median": 44.0,
+      "count": 330
+    },
+    "other,conservative_traditional": {
+      "mean": 49.9078431372549,
+      "median": 49.5,
+      "count": 510
+    }
+  },
+  "electoral/clustered/persona_no_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 42.602745098039215,
+      "median": 38.0,
+      "count": 5100
+    },
+    "progressive_liberal,other": {
+      "mean": 48.22,
+      "median": 45.5,
+      "count": 1500
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 63.35176470588235,
+      "median": 69.0,
+      "count": 3400
+    }
+  },
+  "electoral/clustered/persona_no_context/rep1": {
+    "conservative_traditional,conservative_traditional": {
+      "mean": 25.593714285714285,
+      "median": 22.0,
+      "count": 3500
+    },
+    "conservative_traditional,other": {
+      "mean": 49.974375,
+      "median": 45.0,
+      "count": 1600
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 68.46183673469388,
+      "median": 69.0,
+      "count": 4900
+    }
+  },
+  "electoral/clustered/persona_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.194117647058825,
+      "median": 50.0,
+      "count": 5100
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 50.87558823529412,
+      "median": 50.0,
+      "count": 3400
+    },
+    "progressive_liberal,other": {
+      "mean": 50.68866666666667,
+      "median": 54.0,
+      "count": 1500
+    }
+  },
+  "electoral/clustered/persona_context/rep1": {
+    "conservative_traditional,progressive_liberal": {
+      "mean": 54.38836734693878,
+      "median": 56.0,
+      "count": 4900
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 51.55885714285714,
+      "median": 52.0,
+      "count": 3500
+    },
+    "conservative_traditional,other": {
+      "mean": 36.275625,
+      "median": 28.0,
+      "count": 1600
+    }
+  },
+  "electoral/clustered/no_persona_context/rep0": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.922745098039215,
+      "median": 52.0,
+      "count": 5100
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 49.49735294117647,
+      "median": 48.0,
+      "count": 3400
+    },
+    "progressive_liberal,other": {
+      "mean": 51.33533333333333,
+      "median": 51.0,
+      "count": 1500
+    }
+  },
+  "electoral/clustered/no_persona_context/rep1": {
+    "conservative_traditional,other": {
+      "mean": 47.420625,
+      "median": 44.0,
+      "count": 1600
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 47.542,
+      "median": 45.0,
+      "count": 3500
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 53.618367346938776,
+      "median": 56.0,
+      "count": 4900
+    }
+  },
+  "electoral/clustered/no_persona_no_context/rep0": {
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.436764705882354,
+      "median": 48.0,
+      "count": 3400
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.590980392156865,
+      "median": 52.0,
+      "count": 5100
+    },
+    "progressive_liberal,other": {
+      "mean": 51.467333333333336,
+      "median": 50.0,
+      "count": 1500
+    }
+  },
+  "electoral/clustered/no_persona_no_context/rep1": {
+    "conservative_traditional,other": {
+      "mean": 43.21625,
+      "median": 40.0,
+      "count": 1600
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 52.93265306122449,
+      "median": 54.0,
+      "count": 4900
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.424,
+      "median": 51.0,
+      "count": 3500
+    }
+  }
+}

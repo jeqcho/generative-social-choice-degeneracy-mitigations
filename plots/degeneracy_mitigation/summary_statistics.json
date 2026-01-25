@@ -1,0 +1,425 @@
+{
+  "approach_a/minimal": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 37.09743981658387,
+      "median": 36.0,
+      "count": 2617
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 78.8765923566879,
+      "median": 84.0,
+      "count": 1256
+    },
+    "progressive_liberal,other": {
+      "mean": 50.15143246930423,
+      "median": 54.0,
+      "count": 733
+    },
+    "other,progressive_liberal": {
+      "mean": 46.86274509803921,
+      "median": 46.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 58.592592592592595,
+      "median": 74.0,
+      "count": 459
+    },
+    "other,other": {
+      "mean": 49.24907063197026,
+      "median": 49.0,
+      "count": 269
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 62.3406007751938,
+      "median": 63.0,
+      "count": 2064
+    },
+    "conservative_traditional,other": {
+      "mean": 47.54671280276817,
+      "median": 41.0,
+      "count": 578
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 25.498993963782695,
+      "median": 18.0,
+      "count": 994
+    }
+  },
+  "approach_a/low": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 35.32748760960732,
+      "median": 35.0,
+      "count": 2623
+    },
+    "progressive_liberal,other": {
+      "mean": 51.93478260869565,
+      "median": 59.0,
+      "count": 736
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 81.7489943684634,
+      "median": 86.0,
+      "count": 1243
+    },
+    "other,progressive_liberal": {
+      "mean": 46.14344685242518,
+      "median": 46.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 60.31372549019608,
+      "median": 77.0,
+      "count": 459
+    },
+    "other,other": {
+      "mean": 49.45955882352941,
+      "median": 49.5,
+      "count": 272
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 62.74158368895211,
+      "median": 63.0,
+      "count": 2109
+    },
+    "conservative_traditional,other": {
+      "mean": 46.17567567567568,
+      "median": 39.0,
+      "count": 592
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 27.21921921921922,
+      "median": 16.0,
+      "count": 999
+    }
+  },
+  "approach_a/medium": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 35.11556064073226,
+      "median": 35.0,
+      "count": 2622
+    },
+    "progressive_liberal,other": {
+      "mean": 52.00271739130435,
+      "median": 60.5,
+      "count": 736
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 82.0877616747182,
+      "median": 87.0,
+      "count": 1242
+    },
+    "other,progressive_liberal": {
+      "mean": 45.60268317853457,
+      "median": 46.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 62.13725490196079,
+      "median": 79.0,
+      "count": 459
+    },
+    "other,other": {
+      "mean": 48.30882352941177,
+      "median": 50.5,
+      "count": 272
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 63.05547652916074,
+      "median": 63.0,
+      "count": 2109
+    },
+    "conservative_traditional,other": {
+      "mean": 45.307432432432435,
+      "median": 38.0,
+      "count": 592
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 27.07107107107107,
+      "median": 16.0,
+      "count": 999
+    }
+  },
+  "approach_a_star/minimal": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 39.10297482837529,
+      "median": 36.0,
+      "count": 2622
+    },
+    "progressive_liberal,other": {
+      "mean": 54.79782903663501,
+      "median": 54.0,
+      "count": 737
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 72.10048231511254,
+      "median": 75.0,
+      "count": 1244
+    },
+    "other,conservative_traditional": {
+      "mean": 51.356521739130436,
+      "median": 64.0,
+      "count": 460
+    },
+    "other,progressive_liberal": {
+      "mean": 49.345360824742265,
+      "median": 48.0,
+      "count": 970
+    },
+    "other,other": {
+      "mean": 53.54044117647059,
+      "median": 54.0,
+      "count": 272
+    },
+    "conservative_traditional,other": {
+      "mean": 50.70288624787776,
+      "median": 43.0,
+      "count": 589
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 62.67283950617284,
+      "median": 63.0,
+      "count": 2106
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 24.435435435435437,
+      "median": 17.0,
+      "count": 999
+    }
+  },
+  "approach_a_star/low": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 38.22616323417239,
+      "median": 35.0,
+      "count": 2622
+    },
+    "progressive_liberal,other": {
+      "mean": 58.8561736770692,
+      "median": 60.0,
+      "count": 737
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 71.49355877616748,
+      "median": 73.0,
+      "count": 1242
+    },
+    "other,progressive_liberal": {
+      "mean": 49.621259029927764,
+      "median": 47.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 50.04347826086956,
+      "median": 64.0,
+      "count": 460
+    },
+    "other,other": {
+      "mean": 54.588235294117645,
+      "median": 54.0,
+      "count": 272
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 63.62304409672831,
+      "median": 63.0,
+      "count": 2109
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 24.583583583583582,
+      "median": 16.0,
+      "count": 999
+    },
+    "conservative_traditional,other": {
+      "mean": 47.483108108108105,
+      "median": 38.0,
+      "count": 592
+    }
+  },
+  "approach_a_star/medium": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 38.4370709382151,
+      "median": 35.0,
+      "count": 2622
+    },
+    "progressive_liberal,other": {
+      "mean": 60.27173913043478,
+      "median": 67.5,
+      "count": 736
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 70.17552334943639,
+      "median": 72.0,
+      "count": 1242
+    },
+    "other,progressive_liberal": {
+      "mean": 49.31062951496388,
+      "median": 47.0,
+      "count": 969
+    },
+    "other,other": {
+      "mean": 50.61029411764706,
+      "median": 46.0,
+      "count": 272
+    },
+    "other,conservative_traditional": {
+      "mean": 52.94553376906318,
+      "median": 66.0,
+      "count": 459
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 63.54812707444287,
+      "median": 63.0,
+      "count": 2109
+    },
+    "conservative_traditional,other": {
+      "mean": 45.695945945945944,
+      "median": 38.0,
+      "count": 592
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 25.8008008008008,
+      "median": 16.0,
+      "count": 999
+    }
+  },
+  "approach_b/minimal": {
+    "progressive_liberal,progressive_liberal": {
+      "mean": 37.59534706331045,
+      "median": 36.0,
+      "count": 2622
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 77.76328502415458,
+      "median": 85.0,
+      "count": 1242
+    },
+    "progressive_liberal,other": {
+      "mean": 50.46603260869565,
+      "median": 53.0,
+      "count": 736
+    },
+    "other,other": {
+      "mean": 49.8235294117647,
+      "median": 49.5,
+      "count": 272
+    },
+    "other,progressive_liberal": {
+      "mean": 45.57378740970072,
+      "median": 44.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 61.30065359477124,
+      "median": 74.0,
+      "count": 459
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 61.47219558964525,
+      "median": 63.0,
+      "count": 2086
+    },
+    "conservative_traditional,other": {
+      "mean": 47.04607508532423,
+      "median": 42.0,
+      "count": 586
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 28.10446247464503,
+      "median": 18.0,
+      "count": 986
+    }
+  },
+  "approach_b/low": {
+    "progressive_liberal,other": {
+      "mean": 51.89402173913044,
+      "median": 53.5,
+      "count": 736
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 51.022501906941265,
+      "median": 51.0,
+      "count": 2622
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.57085346215781,
+      "median": 48.0,
+      "count": 1242
+    },
+    "other,other": {
+      "mean": 51.31617647058823,
+      "median": 56.0,
+      "count": 272
+    },
+    "other,progressive_liberal": {
+      "mean": 49.97316821465428,
+      "median": 49.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 51.128540305010894,
+      "median": 51.0,
+      "count": 459
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 50.61830251303935,
+      "median": 51.0,
+      "count": 2109
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 50.230230230230234,
+      "median": 50.0,
+      "count": 999
+    },
+    "conservative_traditional,other": {
+      "mean": 50.53378378378378,
+      "median": 50.0,
+      "count": 592
+    }
+  },
+  "approach_b/medium": {
+    "progressive_liberal,other": {
+      "mean": 51.60054719562243,
+      "median": 53.0,
+      "count": 731
+    },
+    "progressive_liberal,progressive_liberal": {
+      "mean": 50.53358925143954,
+      "median": 50.0,
+      "count": 2605
+    },
+    "progressive_liberal,conservative_traditional": {
+      "mean": 48.90916463909165,
+      "median": 48.0,
+      "count": 1233
+    },
+    "other,other": {
+      "mean": 51.36764705882353,
+      "median": 56.0,
+      "count": 272
+    },
+    "other,progressive_liberal": {
+      "mean": 50.041279669762645,
+      "median": 49.0,
+      "count": 969
+    },
+    "other,conservative_traditional": {
+      "mean": 50.95424836601307,
+      "median": 52.0,
+      "count": 459
+    },
+    "conservative_traditional,progressive_liberal": {
+      "mean": 51.43631178707224,
+      "median": 52.0,
+      "count": 2104
+    },
+    "conservative_traditional,conservative_traditional": {
+      "mean": 48.605605605605604,
+      "median": 48.0,
+      "count": 999
+    },
+    "conservative_traditional,other": {
+      "mean": 49.9679054054054,
+      "median": 50.0,
+      "count": 592
+    }
+  }
+}
